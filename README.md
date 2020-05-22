@@ -1,13 +1,18 @@
 # STEPS
-1. Git clone in your computer. 
-  In your terminal or CMD copy and paste the next line:
+# 1. Git clone in your computer. In your terminal or CMD copy and paste the next line:
   
   git clone https://github.com/BrandonEscamilla/spaceappscovid2019.git
   
-2. Enter the directory cd spaceappscovid2019/
+# 2. Enter the directory 
 
-3. Run ---> npm install
+  cd spaceappscovid2019/
 
-4. npm start
+# 3. Run in your terminal or CMD
+  
+  npm install
+
+# 4. Start the website 
+  
+  npm start
 
 That's all! 🛰
